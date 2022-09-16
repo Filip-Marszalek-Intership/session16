@@ -1,0 +1,4 @@
+**/terraform/.terraform*
+**/bicep/template.json
+**/terraform/terraform.tf?*
+!**/terraform/terraform.tfvars
